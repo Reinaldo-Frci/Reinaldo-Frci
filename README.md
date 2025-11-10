@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reinaldo</h1>
 <h3 align="center">A Webdeveloper and automations manager from Brazil.</h3>
-# 💫 About Me:
 🔭 I’m currently working on AI agents with N8N.<br><br>🌱 I’m currently learning React and Cloud management.<br><br>👯 I’m looking to collaborate on AI focussed webdevelopment.<br><br>📫 How to reach me reinaldo.frci@gmail.com<br><br>⚡ The language i work with the most is Python, and Javascript/Typescript.
 
 
